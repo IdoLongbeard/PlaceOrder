@@ -1,0 +1,16 @@
+D:\C#\PostComment\PlaceOrder\PlaceOrder\obj\Debug\net5.0\PlaceOrder.csproj.AssemblyReference.cache
+D:\C#\PostComment\PlaceOrder\PlaceOrder\obj\Debug\net5.0\PlaceOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PostComment\PlaceOrder\PlaceOrder\obj\Debug\net5.0\PlaceOrder.AssemblyInfoInputs.cache
+D:\C#\PostComment\PlaceOrder\PlaceOrder\obj\Debug\net5.0\PlaceOrder.AssemblyInfo.cs
+D:\C#\PostComment\PlaceOrder\PlaceOrder\obj\Debug\net5.0\PlaceOrder.csproj.CoreCompileInputs.cache
+D:\C#\PostComment\PlaceOrder\PlaceOrder\bin\Debug\net5.0\PlaceOrder.exe
+D:\C#\PostComment\PlaceOrder\PlaceOrder\bin\Debug\net5.0\PlaceOrder.deps.json
+D:\C#\PostComment\PlaceOrder\PlaceOrder\bin\Debug\net5.0\PlaceOrder.runtimeconfig.json
+D:\C#\PostComment\PlaceOrder\PlaceOrder\bin\Debug\net5.0\PlaceOrder.runtimeconfig.dev.json
+D:\C#\PostComment\PlaceOrder\PlaceOrder\bin\Debug\net5.0\PlaceOrder.dll
+D:\C#\PostComment\PlaceOrder\PlaceOrder\bin\Debug\net5.0\ref\PlaceOrder.dll
+D:\C#\PostComment\PlaceOrder\PlaceOrder\bin\Debug\net5.0\PlaceOrder.pdb
+D:\C#\PostComment\PlaceOrder\PlaceOrder\obj\Debug\net5.0\PlaceOrder.dll
+D:\C#\PostComment\PlaceOrder\PlaceOrder\obj\Debug\net5.0\ref\PlaceOrder.dll
+D:\C#\PostComment\PlaceOrder\PlaceOrder\obj\Debug\net5.0\PlaceOrder.pdb
+D:\C#\PostComment\PlaceOrder\PlaceOrder\obj\Debug\net5.0\PlaceOrder.genruntimeconfig.cache
